@@ -2,4 +2,4 @@
 Simple loan calculator application made with Vanilla JavaScript
 
 Technologies used:
-HTML, Bootsrap and Vanilla JavaScript
+HTML, Bootstrap and Vanilla JavaScript
